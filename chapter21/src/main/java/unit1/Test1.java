@@ -5,4 +5,7 @@ package unit1;
  * @date 2021/8/19 10:55
  */
 public class Test1 {
+    public static void main(String[] args) {
+
+    }
 }
